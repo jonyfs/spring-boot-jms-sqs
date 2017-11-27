@@ -1,9 +1,9 @@
-# spring-boot-jms-sqs
-Spring Boot and SQS with JMS Example
+# Spring Boot and SQS with JMS Example
 
+This example allows you to send / read messages to / from Amazon SQS.
 
-This example sends message to Amazon SQS queue. Works with String message and JSON message.
+It works with both String and JSON messages.
 
-I used in this example a MessageConverter to automatically translate a message in JSON format.
+I used a MessageConverter to automatically translate a message in JSON format.
 
 
