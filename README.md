@@ -1,4 +1,4 @@
-# Spring Boot and SQS with JMS Example
+# Spring Boot and Amazon SQS(with JMS) Example
 
 This example allows you to send / read messages to / from Amazon SQS.
 
